@@ -23,6 +23,3 @@ alias gs="git status"
 alias gc="git commit -am"
 alias gp="git pull"
 alias gpp="git push"
-
-alias p="cd ~/Repositories/socialproofit/socialproofit"
-alias rp="p && sudo python manage.py runserver www.socialproofit.local:80"
